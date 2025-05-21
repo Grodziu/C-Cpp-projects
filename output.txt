@@ -1,5 +1,43 @@
-Czas wykonania klasycznego algorytmu: 20660583 us
-Czas wykonania algorytmu Semby: 20609929 us
-
-Kombinacje klasyczne
-...
+1 1 1 1 1 
+1 1 1 1 2 
+1 1 1 2 1 
+1 1 1 2 2 
+1 1 1 2 3 
+1 1 2 1 1 
+1 1 2 1 2 
+1 1 2 1 3 
+1 1 2 2 1 
+1 1 2 2 2 
+1 1 2 2 3 
+1 1 2 3 1 
+1 1 2 3 2 
+1 1 2 3 3 
+1 2 1 1 1 
+1 2 1 1 2 
+1 2 1 1 3 
+1 2 1 2 1 
+1 2 1 2 2 
+1 2 1 2 3 
+1 2 1 3 1 
+1 2 1 3 2 
+1 2 1 3 3 
+1 2 2 1 1 
+1 2 2 1 2 
+1 2 2 1 3 
+1 2 2 2 1 
+1 2 2 2 2 
+1 2 2 2 3 
+1 2 2 3 1 
+1 2 2 3 2 
+1 2 2 3 3 
+1 2 3 1 1 
+1 2 3 1 2 
+1 2 3 1 3 
+1 2 3 2 1 
+1 2 3 2 2 
+1 2 3 2 3 
+1 2 3 3 1 
+1 2 3 3 2 
+1 2 3 3 3 
+Czas wykonania: 0.116 ms
+Laczna liczba wygenerowanych podzialow: 41
