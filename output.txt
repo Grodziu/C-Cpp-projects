@@ -1,43 +1,14 @@
-1 1 1 1 1 
-1 1 1 1 2 
-1 1 1 2 1 
-1 1 1 2 2 
-1 1 1 2 3 
-1 1 2 1 1 
-1 1 2 1 2 
-1 1 2 1 3 
-1 1 2 2 1 
-1 1 2 2 2 
-1 1 2 2 3 
-1 1 2 3 1 
-1 1 2 3 2 
-1 1 2 3 3 
-1 2 1 1 1 
-1 2 1 1 2 
-1 2 1 1 3 
-1 2 1 2 1 
-1 2 1 2 2 
-1 2 1 2 3 
-1 2 1 3 1 
-1 2 1 3 2 
-1 2 1 3 3 
-1 2 2 1 1 
-1 2 2 1 2 
-1 2 2 1 3 
-1 2 2 2 1 
-1 2 2 2 2 
-1 2 2 2 3 
-1 2 2 3 1 
-1 2 2 3 2 
-1 2 2 3 3 
-1 2 3 1 1 
-1 2 3 1 2 
-1 2 3 1 3 
-1 2 3 2 1 
-1 2 3 2 2 
-1 2 3 2 3 
-1 2 3 3 1 
-1 2 3 3 2 
-1 2 3 3 3 
-Czas wykonania: 0.116 ms
-Laczna liczba wygenerowanych podzialow: 41
+Tekst wejsciowy:
+adam
+
+Zakodowany tekst:
+010011
+
+Tekst po dekodowaniu:
+adam
+
+Wskaznik kompresji: 5.33333
+Stopien kompresji: 81.25%
+Srednia dlugosc kodu: 1.5 bitow na znak
+Czas kodowania: 2300 ns
+Czas dekodowania: 1500 ns
