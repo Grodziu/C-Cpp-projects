@@ -1,14 +1,1 @@
-Tekst wejsciowy:
-adam
-
-Zakodowany tekst:
-010011
-
-Tekst po dekodowaniu:
-adam
-
-Wskaznik kompresji: 5.33333
-Stopien kompresji: 81.25%
-Srednia dlugosc kodu: 1.5 bitow na znak
-Czas kodowania: 2300 ns
-Czas dekodowania: 1500 ns
+//Essential for all "LabX" projects. Depending on the project, it has the extension ".txt" or ".csv" or other.
