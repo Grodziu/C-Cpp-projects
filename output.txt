@@ -1,0 +1,5 @@
+Czas wykonania klasycznego algorytmu: 20660583 us
+Czas wykonania algorytmu Semby: 20609929 us
+
+Kombinacje klasyczne
+...
